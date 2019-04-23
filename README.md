@@ -4,6 +4,9 @@
 
 ![ClamAV latest.stable](https://img.shields.io/badge/ClamAV-latest.stable-brightgreen.svg?style=flat-square)
 
+
+## Overview 
+Clam AntiVirus toolkit gfor use with Patient Choice file upload capability. Branch alpine currently in use.
 # Optimized
 
 Try the new alpine based version:

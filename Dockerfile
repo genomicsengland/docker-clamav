@@ -16,4 +16,4 @@ VOLUME ["/store"]
 
 CMD /bootstrap.py
 
-HEALTHCHECK --start-period=500s CMD /check.sh
+HEALTHCHECK --interval=3m --retries=10 CMD /check.sh

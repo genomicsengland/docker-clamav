@@ -6,7 +6,7 @@
 
 
 ## Overview 
-Clam AntiVirus toolkit gfor use with Patient Choice file upload capability. Branch alpine currently in use.
+Clam AntiVirus toolkit gfor use with Patient Choice file upload capability. Debian version currently in use for OSE support
 # Optimized
 
 Try the new alpine based version:
